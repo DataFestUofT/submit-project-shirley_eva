@@ -1,0 +1,456 @@
+_id,address,dir,end_date,flash_speed,geometry,min_speed,schedule,sign_id,sign_name,speed_limit,start_date,strobe_speed,ward_no
+1,51 Kingsview Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.554847, 43.698055)}",30,Weekdays from 7 AM - 9 PM,51,Kingsview Blvd EB ,40,2019-01-03T14:00:00,46.0,1
+2,2546 Kipling Avenue,SB,,61,"{u'type': u'Point', u'coordinates': (-79.583516, 43.745977)}",30,Weekdays from 7 AM - 9 PM,57,Kipling Ave SB ,60,2019-04-11T05:00:00,66.0,1
+3,2580 Kipling Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.586886, 43.746431)}",30,Weekdays from 7 AM - 9 PM,65,Mt. Olive Dr EB ,40,2019-04-03T09:00:00,46.0,1
+4,47 Silverstone Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.58787, 43.744667)}",30,Weekdays from 7 AM - 9 PM,182,Silverstone Dr NB ,40,2019-04-03T09:00:00,46.0,1
+5,7 Hullen Crescent,SB,,41,"{u'type': u'Point', u'coordinates': (-79.619998, 43.729637)}",30,Weekdays from 7 AM - 9 PM,268,Humberwood Blvd SB ,40,2017-09-01T09:00:00,46.0,1
+6,850 Humberwood Boulevard ,NB,2018-12-03T15:00:00,41,"{u'type': u'Point', u'coordinates': (-79.6200688334, 43.7289179122)}",30,Weekdays from 7 AM - 9 PM,286,Humberwood Blvd NB ,40,2016-11-30T11:00:00,46.0,1
+7,68 Silverstone Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.588289, 43.747123)}",30,Weekdays from 7 AM - 9 PM,300,Silverston Dr SB ,40,2019-04-03T09:00:00,46.0,1
+8,82 Mount Olive Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.590087, 43.745981)}",30,Weekdays from 7 AM - 9 PM,523,Mt. Olive Dr EB ,40,2019-04-03T09:00:00,46.0,1
+9,44 Kingsview Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.553785, 43.698448)}",30,Weekdays from 7 AM - 9 PM,524,Kingsview Blvd WB ,40,2019-01-03T14:00:00,46.0,1
+10,2612 Kipling Avenue,NB,2020-01-07T23:00:00,61,"{u'type': u'Point', u'coordinates': (-79.584854, 43.748778)}",30,Weekdays from 7 AM - 9 PM,525,Kipling Avve NB ,60,2019-08-01T00:00:00,66.0,1
+11,20 York Road,EB,,51,"{u'type': u'Point', u'coordinates': (-79.552668, 43.69957)}",30,Weekdays from 7 AM - 9 PM,633,York Rd EB ,50,2019-03-20T09:00:00,56.0,1
+12,34 Farr Avenue,SB,,61,"{u'type': u'Point', u'coordinates': (-79.582296, 43.744024)}",30,Weekdays from 7 AM - 9 PM,644,Kipling Ave SB ,60,2019-04-03T09:00:00,66.0,1
+13,13 Maryhill Drive,SB,,51,"{u'type': u'Point', u'coordinates': (-79.586408, 43.752068)}",30,Weekdays from 7 AM - 9 PM,884,Kipling Ave SB ,50,2019-12-17T10:00:00,56.0,1
+14,1 Annabelle Drive,NB,,51,"{u'type': u'Point', u'coordinates': (-79.585995, 43.751632)}",30,Weekdays from 7 AM - 9 PM,885,Kipling Ave NB ,50,2019-12-17T11:00:00,56.0,1
+15,2614 Kipling Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.585146, 43.748907)}",30,Weekdays from 7 AM - 9 PM,918,Kipling Ave SB ,50,2020-01-27T10:00:00,56.0,1
+16,185 Mount Olive Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.5955, 43.751305)}",5,Weekdays from 7 AM - 9 PM,1954,Mt. Olive Dr SB ,40,2020-03-09T11:00:00,46.0,1
+17,152 Mount Olive Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.594836, 43.749095)}",5,Weekdays from 7 AM - 9 PM,1999,Mt. Olive Dr NB ,40,2020-03-09T12:00:00,46.0,1
+18,10 Jamestown Crescent,WB,,41,"{u'type': u'Point', u'coordinates': (-79.582097, 43.734507)}",5,Weekdays from 7 AM - 9 PM,2083,John Garland Blvd WB ,40,2020-03-17T10:00:00,46.0,1
+19,15 Jamestown Crescent,EB,,41,"{u'type': u'Point', u'coordinates': (-79.58281, 43.733546)}",5,Weekdays from 7 AM - 9 PM,2085,John Garland Blvd EB ,40,2020-03-17T09:00:00,46.0,1
+20,115 Rathburn Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.5406593533, 43.6603512367)}",30,Weekdays from 7 AM - 9 PM,29,Rathburn Rd EB ,40,2016-11-09T10:00:00,46.0,2
+21,335 The Westway,EB,,41,"{u'type': u'Point', u'coordinates': (-79.558162, 43.685288)}",30,Weekdays from 7 AM - 9 PM,83,The Westway EB ,40,2018-01-19T09:00:00,46.0,2
+22,308 The Westway,WB,,41,"{u'type': u'Point', u'coordinates': (-79.555977, 43.685495)}",30,Weekdays from 7 AM - 9 PM,131,The Wesway WB ,40,2018-01-24T14:00:00,46.0,2
+23,55 Lafferty Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.582609, 43.658028)}",30,Weekdays from 7 AM - 9 PM,156,Renforth Dr SB (3 of 3) ,40,2018-10-19T09:00:00,46.0,2
+24,420 Mill Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.588101, 43.644406)}",5,Weekdays from 7 AM - 9 PM,192,Mill Rd SB ,40,2018-01-24T13:00:00,46.0,2
+25,3 Bowness Court,NB,,41,"{u'type': u'Point', u'coordinates': (-79.5524062354, 43.673818231)}",5,Weekdays from 7 AM - 9 PM,249,Strathburn Blvd NB ,40,2019-07-23T13:00:00,46.0,2
+26,111 Chapman Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.521569, 43.689142)}",30,Weekdays from 7 AM - 9 PM,269,Chapman Rd EB ,40,2019-02-26T09:00:00,46.0,2
+27,4 Burkston Place,SB,,41,"{u'type': u'Point', u'coordinates': (-79.5522345741, 43.6722351737)}",5,Weekdays from 7 AM - 9 PM,271,Strathburn Rd SB ,40,2019-07-23T14:00:00,46.0,2
+28,72 Rathburn Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.5373816939, 43.6612089011)}",30,Weekdays from 7 AM - 9 PM,284,Rathburn Rd WB ,40,2016-11-30T11:00:00,46.0,2
+29,Burnhamthorpe Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.5649030391, 43.6449844396)}",5,Weekdays from 7 AM - 9 PM,297,Armour Blvd WB ,40,2019-07-23T14:00:00,46.0,2
+30,95 Richland Crescent,NB,,41,"{u'type': u'Point', u'coordinates': (-79.581933, 43.657153)}",30,Weekdays from 7 AM - 9 PM,347,Renforth Dr NB (2 of 3) ,40,2018-10-19T09:00:00,46.0,2
+31,127 Sun Row Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.536916, 43.684964)}",30,Weekdays from 7 AM - 9 PM,443,Sunrow Dr NB ,40,2017-06-16T14:00:00,46.0,2
+32,730 Renforth Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.584478, 43.662695)}",30,Weekdays from 7 AM - 9 PM,472,Renforth Dr NB (3 of 3) ,40,2018-10-19T08:00:00,46.0,2
+33, Renforth Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.585958, 43.665158)}",30,Weekdays from 7 AM - 9 PM,475,Renforth Dr SB (1 of 3) ,40,2018-10-18T08:00:00,46.0,2
+34,334 The East Mall,SB,,51,"{u'type': u'Point', u'coordinates': (-79.557186, 43.638992)}",30,Weekdays from 7 AM - 9 PM,576,The East Mall SB (1&amp;#x2F;2) ,50,2018-11-02T12:00:00,56.0,2
+35,20 Saskatoon Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.53657, 43.695111)}",30,Weekdays from 7 AM - 9 PM,582,Saskatoon Dr EB ,40,2019-03-06T13:00:00,46.0,2
+36,60 Fenley Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.55023, 43.690895)}",30,Weekdays from 7 AM - 9 PM,610,Poynter Dr WB ,40,2019-03-11T07:00:00,46.0,2
+37,227 Mill Road,SB,2020-02-20T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.577376, 43.634306)}",30,Weekdays from 7 AM - 9 PM,627,Mill Rd SB ,40,2019-01-01T00:00:00,46.0,2
+38,99 Stapleton Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.547692, 43.690013)}",30,Weekdays from 7 AM - 9 PM,657,Poynter Dr EB ,40,2019-03-11T07:00:00,46.0,2
+39,21 Arcade Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.517555, 43.687513)}",30,Weekdays from 7 AM - 9 PM,658,Arcade Dr NB ,40,2019-02-26T09:00:00,46.0,2
+40,89 Sun Row Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.538962, 43.687118)}",30,Weekdays from 7 AM - 9 PM,668,Sunrow Dr SB ,40,2017-05-26T12:00:00,46.0,2
+41,110 Eringate Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.58144643, 43.6605423608)}",30,Weekdays from 7 AM - 9 PM,717,Eringate Dr WB ,40,2018-10-19T08:00:00,46.0,2
+42,411 Mill Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.586652, 43.643284)}",30,Weekdays from 7 AM - 9 PM,719,Mill Rd NB ,40,2018-01-24T13:00:00,46.0,2
+43,30 Westroyal Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.536486, 43.693097)}",5,Weekdays from 7 AM - 9 PM,895,Westroyal Rd NB ,40,2019-12-27T11:00:00,46.0,2
+44,31 Westroyal Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.536527, 43.692693)}",5,Weekdays from 7 AM - 9 PM,897,Westroyal Rd SB ,40,2019-12-27T11:00:00,46.0,2
+45,55 Saskatoon Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.539949, 43.694218)}",30,Weekdays from 7 AM - 9 PM,995,Saskatoon Dr EB ,40,2019-04-02T10:00:00,46.0,2
+46,127 Sun Row Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.536916, 43.684964)}",30,Weekdays from 7 AM - 9 PM,2008,Sun Row Dr NB ,40,2020-03-10T00:00:00,46.0,2
+47,89 Sun Row Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.538962, 43.687118)}",30,Weekdays from 7 AM - 9 PM,2023,Sun Row Dr SB ,40,2020-03-10T00:00:00,46.0,2
+48,23 Fieldstone Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.57751, 43.634383)}",5,Weekdays from 7 AM - 9 PM,2050,Mill Rd SB ,40,2020-02-21T10:00:00,46.0,2
+49,278 Royal York Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.497885, 43.614718)}",30,Weekdays from 7 AM - 9 PM,93,Royal York Rd SB ,40,2019-04-03T08:00:00,46.0,3
+50,112 Norseman Street,EB,,41,"{u'type': u'Point', u'coordinates': (-79.51753, 43.634576)}",30,Weekdays from 7 AM - 9 PM,101,Norseman St EB ,40,2018-01-16T12:00:00,46.0,3
+51,30 Mimico Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.490724, 43.6136)}",20,Weekdays from 7 AM - 9 PM,112,Mimico Ave WB ,30,2019-03-07T11:00:00,36.0,3
+52,284 The East Mall,SB,,41,"{u'type': u'Point', u'coordinates': (-79.556752, 43.635698)}",30,Weekdays from 7 AM - 9 PM,121,The East Mall SB (2&amp;#x2F;2) ,40,2018-11-02T12:00:00,46.0,3
+53,55 Jutland Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.519735, 43.62825)}",30,Weekdays from 7 AM - 9 PM,124,Jutland Rd EB  ,40,2019-03-07T07:00:00,46.0,3
+54,28 Coules Court,WB,,41,"{u'type': u'Point', u'coordinates': (-79.549365, 43.608118)}",30,Weekdays from 7 AM - 9 PM,159,Coules Crt WB ,40,2019-04-03T09:00:00,46.0,3
+55,21 Montgomery Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.516682, 43.647954)}",30,Weekdays from 7 AM - 9 PM,193,Montgomery Rd NB ,40,2019-03-20T08:00:00,46.0,3
+56,273 Royal York Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.49723, 43.61378)}",30,Weekdays from 7 AM - 9 PM,257,Royal York Rd NB ,40,2019-04-03T08:00:00,46.0,3
+57,87 Norseman Street,WB,,41,"{u'type': u'Point', u'coordinates': (-79.514798, 43.635297)}",30,Weekdays from 7 AM - 9 PM,292,Norseman St WB ,40,2018-01-16T13:00:00,46.0,3
+58,281 The East Mall,NB,,41,"{u'type': u'Point', u'coordinates': (-79.556771, 43.634644)}",30,Weekdays from 7 AM - 9 PM,469,The East Mall NB ,40,2018-11-02T12:00:00,46.0,3
+59, Royal York Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.505204, 43.632737)}",30,Weekdays from 7 AM - 9 PM,481,Royal York Rd NB ,40,2019-03-07T11:00:00,46.0,3
+60, Elizabeth Street,WB,,31,"{u'type': u'Point', u'coordinates': (-79.496548, 43.61454)}",20,Weekdays from 7 AM - 9 PM,484,Stanley Ave WB ,30,2019-03-07T11:00:00,36.0,3
+61,32 Montgomery Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.519897, 43.649478)}",30,Weekdays from 7 AM - 9 PM,563,Montgomery Rd SB ,40,2019-03-12T06:00:00,46.0,3
+62,104 Jutland Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.518436, 43.628689)}",30,Weekdays from 7 AM - 9 PM,573,Jutland Rd WB ,40,2019-03-20T06:00:00,46.0,3
+63,736 Royal York Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.506294, 43.63487)}",30,Weekdays from 7 AM - 9 PM,694,Royal York Rd SB ,40,2019-03-07T11:00:00,46.0,3
+64,55 Jutland Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.519735, 43.62825)}",30,Weekdays from 7 AM - 9 PM,752,Jutland Rd EB ,40,2019-11-22T00:00:00,46.0,3
+65,320 Kipling Avenue,SB,,61,"{u'type': u'Point', u'coordinates': (-79.517488, 43.599208)}",30,Weekdays from 7 AM - 9 PM,2064,Kipling Ave SB ,60,2020-03-10T13:00:00,66.0,3
+66,3180 Lake Shore Boulevard West,WB,,51,"{u'type': u'Point', u'coordinates': (-79.518265, 43.598048)}",30,Weekdays from 7 AM - 9 PM,2065,Lake Shore Blvd WB ,50,2020-03-10T13:00:00,56.0,3
+67,3182 Lake Shore Boulevard West,EB,,51,"{u'type': u'Point', u'coordinates': (-79.518351, 43.597847)}",30,Weekdays from 7 AM - 9 PM,2066,Lake Shore Blvd W EB ,50,2020-03-11T10:00:00,56.0,3
+68, Colonel Samuel Smith Park Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.515931, 43.59609)}",5,Weekdays from 7 AM - 9 PM,2072,Colonel Samuel Smith Pk Dr NB ,40,2020-03-11T11:00:00,46.0,3
+69, Elizabeth Street,EB,,31,"{u'type': u'Point', u'coordinates': (-79.496548, 43.61454)}",20,Weekdays from 7 AM - 9 PM,2111,Stanley Ave EB ,30,2020-03-24T00:00:00,36.0,3
+70,106 Fern Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.44487, 43.645328)}",20,Weekdays from 7 AM - 9 PM,72,Fern Ave WB ,30,2019-03-20T06:00:00,36.0,4
+71,94 Fairview Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.476566, 43.66075)}",30,Weekdays from 7 AM - 9 PM,137,Annette St WB ,40,2019-03-07T10:00:00,46.0,4
+72,92 Jane Street,SB,2019-08-02T03:00:00,61,"{u'type': u'Point', u'coordinates': (-79.485482, 43.65153)}",30,Weekdays from 7 AM - 9 PM,144,Jane St SB ,60,2018-01-22T11:00:00,66.0,4
+73,178 Sunnyside Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.450555, 43.64381)}",20,Weekdays from 7 AM - 9 PM,146,Sunnyside Ave SB ,30,2019-04-11T10:00:00,36.0,4
+74,158 Sunnyside Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.450178, 43.643047)}",20,Weekdays from 7 AM - 9 PM,151,Sunnyside Ave NB ,30,2019-04-11T09:00:00,36.0,4
+75,125 Varsity Road,WB,,31,"{u'type': u'Point', u'coordinates': (-79.498917, 43.66192)}",20,Weekdays from 7 AM - 9 PM,168,Varsity Rd WB ,30,2017-12-13T11:00:00,36.0,4
+76,207 Windermere Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.476273, 43.642751)}",20,Weekdays from 7 AM - 9 PM,228,Windermere Ave NB ,30,2018-01-24T12:00:00,36.0,4
+77,214 Windermere Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.478022, 43.643963)}",20,Weekdays from 7 AM - 9 PM,237,Windermere Ave SB ,30,2018-01-24T12:00:00,36.0,4
+78,333 Runnymede Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.477359, 43.654033)}",30,Weekdays from 7 AM - 9 PM,272,Runnymede Rd NB ,40,2018-12-05T11:00:00,46.0,4
+79,236 Annette Street,EB,,41,"{u'type': u'Point', u'coordinates': (-79.47079, 43.662649)}",30,Weekdays from 7 AM - 9 PM,309,Annette St EB ,40,2019-03-07T10:00:00,46.0,4
+80,30 Marmaduke Street,WB,2018-07-03T08:00:00,31,"{u'type': u'Point', u'coordinates': (-79.4512990085, 43.6504567511)}",20,Weekdays from 7 AM - 9 PM,362,Marmaduke St WB ,30,2018-02-02T15:00:00,36.0,4
+81,18 Rexford Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.486237, 43.663628)}",30,Weekdays from 7 AM - 9 PM,375,Rexford Dr EB ,40,2019-03-11T07:00:00,46.0,4
+82,34 Brookside Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.491918, 43.6608)}",30,Weekdays from 7 AM - 9 PM,431,Brookside Ave SB ,40,2018-11-02T12:00:00,46.0,4
+83,1577 Bloor Street West ,EB,,41,"{u'type': u'Point', u'coordinates': (-79.4545550795, 43.6558298626)}",5,Weekdays from 7 AM - 9 PM,488,Bloor St W EB ,40,2016-12-15T11:00:00,46.0,4
+84,225 Garden Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.448613, 43.642732)}",20,Weekdays from 7 AM - 9 PM,520,Galley Ave EB ,30,2019-04-11T10:00:00,36.0,4
+85,1480 Bloor Street West,WB,,41,"{u'type': u'Point', u'coordinates': (-79.4505424948, 43.6569126948)}",30,Weekdays from 12 AM,552,Bloor St W WB ,40,2017-02-24T10:00:00,46.0,4
+86,2447 Dundas Street West ,SB,,41,"{u'type': u'Point', u'coordinates': (-79.4534178229, 43.6591869669)}",30,Weekdays from 12 AM,586,Dundas St W SB ,40,2016-11-17T13:00:00,46.0,4
+87,2269 Dundas Street West ,NB,,41,"{u'type': u'Point', u'coordinates': (-79.4521196337, 43.6548634474)}",30,Weekdays from 12 AM,643,Dundas St W NB ,40,2016-12-15T11:00:00,46.0,4
+88,29 Jane Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.484749, 43.650243)}",30,Weekdays from 7 AM - 9 PM,670,Jane St NB ,40,2018-01-16T10:00:00,46.0,4
+89,148 Varsity Road,EB,2020-03-27T13:00:00,31,"{u'type': u'Point', u'coordinates': (-79.500928, 43.662937)}",20,Weekdays from 7 AM - 9 PM,725,Varsity Rd EB ,30,2018-01-22T11:00:00,36.0,4
+90,109 Jameson Avenue,NB,2020-03-09T13:00:00,41,"{u'type': u'Point', u'coordinates': (-79.435318, 43.635557)}",5,Weekdays from 7 AM - 9 PM,888,Jameson Ave NB ,40,2019-12-19T13:00:00,46.0,4
+91,8 Saint Mark's Road,WB,,31,"{u'type': u'Point', u'coordinates': (-79.489842, 43.660301)}",20,Weekdays from 7 AM - 9 PM,1000,St Marks Rd WB ,30,2018-11-02T12:00:00,36.0,4
+92,440 Runnymede Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.478956, 43.65732)}",5,Weekdays from 7 AM - 9 PM,1976,Runnymede Rd SB ,40,2020-03-05T12:00:00,46.0,4
+93,78 Thurodale Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.499215, 43.702312)}",30,Weekdays from 7 AM - 9 PM,23,Thurodale Ave WB ,40,2019-04-03T10:00:00,46.0,5
+94,11 Duckworth Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.499714, 43.70264)}",30,Weekdays from 7 AM - 9 PM,74,Duckworth St NB ,40,2019-03-11T08:00:00,46.0,5
+95,218 Bicknell Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.476592, 43.688155)}",30,Weekdays from 7 AM - 9 PM,100,Bicknell Ave NB ,40,2019-01-03T15:00:00,46.0,5
+96,75 Emmett Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.504856, 43.686968)}",30,Weekdays from 7 AM - 9 PM,115,Emmett Ave WB ,40,2019-03-07T10:00:00,46.0,5
+97,50 Leigh Street,EB,2018-11-22T18:00:00,41,"{u'type': u'Point', u'coordinates': (-79.478635, 43.675533)}",30,Weekdays from 7 AM - 9 PM,136,McCormack Ave EB ,40,2018-01-22T11:00:00,46.0,5
+98,197 Bicknell Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.475825, 43.686837)}",30,Weekdays from 7 AM - 9 PM,141,Bicknell Ave SB ,40,2019-01-03T14:00:00,46.0,5
+99,91 Emmett Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.508405, 43.686837)}",30,Weekdays from 7 AM - 9 PM,186,Emmett Ave EB ,40,2019-03-07T10:00:00,46.0,5
+100,49 Pamille Place,NB,,41,"{u'type': u'Point', u'coordinates': (-79.500654, 43.701353)}",30,Weekdays from 7 AM - 9 PM,191,Tedder St NB ,40,2019-03-11T08:00:00,46.0,5
+101,45 Comay Road,NB,,31,"{u'type': u'Point', u'coordinates': (-79.479681, 43.69716)}",20,Weekdays from 7 AM - 9 PM,200,Comay Rd NB ,30,2019-03-06T11:00:00,36.0,5
+102,86 Guestville Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.489758, 43.684437)}",20,Weekdays from 7 AM - 9 PM,242,Guestville Ave SB ,30,2019-03-11T06:00:00,36.0,5
+103,994 Jane Street,SB,,51,"{u'type': u'Point', u'coordinates': (-79.49836, 43.682598)}",30,Weekdays from 7 AM - 9 PM,256,Jane St SB ,50,2019-03-20T06:00:00,56.0,5
+104,80 McCormack Street,WB,,41,"{u'type': u'Point', u'coordinates': (-79.476937, 43.676097)}",30,Weekdays from 7 AM - 9 PM,356,McCormack St WB ,40,2018-01-11T11:00:00,46.0,5
+105,25 Porter Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.479179, 43.681759)}",30,Weekdays from 7 AM - 9 PM,457,Avon Ave SB ,40,2017-12-13T16:00:00,46.0,5
+106,62 Lambton Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.488191, 43.683352)}",30,Weekdays from 7 AM - 9 PM,482,Lambton Ave WB ,40,2019-03-11T06:00:00,46.0,5
+107,400 Rockcliffe Boulevard,SB,,31,"{u'type': u'Point', u'coordinates': (-79.488743, 43.675147)}",20,Weekdays from 7 AM - 9 PM,596,Rockcliffe Blvd SB ,30,2018-01-19T15:00:00,36.0,5
+108,26 Seneca Avenue,EB,2018-03-03T08:00:00,41,"{u'type': u'Point', u'coordinates': (-79.477451, 43.680184)}",30,Weekdays from 7 AM - 9 PM,601,Avon Ave EB ,40,2017-12-13T16:00:00,46.0,5
+109,958 Jane Street,NB,,51,"{u'type': u'Point', u'coordinates': (-79.497292, 43.680276)}",30,Weekdays from 7 AM - 9 PM,618,Jane St NB ,50,2019-03-20T06:00:00,56.0,5
+110,303 Rockcliffe Boulevard,NB,2019-10-11T14:00:00,41,"{u'type': u'Point', u'coordinates': (-79.487927, 43.673787)}",30,Weekdays from 7 AM - 9 PM,638,Rockcliffe Blvd NB ,40,2018-01-19T14:00:00,46.0,5
+111,38 Comay Road,SB,,31,"{u'type': u'Point', u'coordinates': (-79.478846, 43.697953)}",20,Weekdays from 7 AM - 9 PM,728,Comay Rd SB ,30,2019-03-20T07:00:00,36.0,5
+112,1 Ralph Street,SB,,31,"{u'type': u'Point', u'coordinates': (-79.512855, 43.701977)}",20,Weekdays from 7 AM - 9 PM,803,Ralph St SB ,30,2019-11-18T11:00:00,36.0,5
+113,36 George Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.520766, 43.702989)}",5,Weekdays from 7 AM - 9 PM,871,George St SB ,40,2019-12-09T11:00:00,46.0,5
+114,150 Sharpecroft Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.489756, 43.750103)}",30,Weekdays from 7 AM - 9 PM,91,Sharpecroft Blvd SB ,40,2019-03-11T08:00:00,46.0,6
+115,345 Wilmington Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.460103, 43.768824)}",30,Weekdays from 7 AM - 9 PM,274,Wilmington Ave NB ,40,2018-01-16T15:00:00,46.0,6
+116,2813 Keele Street,NB,,61,"{u'type': u'Point', u'coordinates': (-79.482622, 43.729739)}",30,Weekdays from 7 AM - 9 PM,282,Keele St NB ,60,2019-03-20T06:00:00,66.0,6
+117,25 Gade Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.490174, 43.728303)}",30,Weekdays from 7 AM - 9 PM,352,Gade Dr EB ,40,2018-10-18T08:00:00,46.0,6
+118,285 Wilmington Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.459095, 43.766502)}",30,Weekdays from 7 AM - 9 PM,463,Wilmington Ave NB ,40,2018-01-16T15:00:00,46.0,6
+119,2 Renoak Drive,WB,,31,"{u'type': u'Point', u'coordinates': (-79.450126, 43.78567)}",20,Weekdays from 7 AM - 9 PM,542,Rockford Rd WB ,30,2019-03-11T08:00:00,36.0,6
+120,330 Wilmington Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.460165, 43.768567)}",30,Weekdays from 7 AM - 9 PM,555,Wilmington Ave SB ,40,2018-01-16T15:00:00,46.0,6
+121,86 Faywood Boulevard,NB,,41,"{u'type': u'Point', u'coordinates': (-79.447478, 43.739531)}",30,Weekdays from 7 AM - 9 PM,590,Faywood Blvd NB ,40,2019-03-07T09:00:00,46.0,6
+122,2860 Keele Street,SB,,61,"{u'type': u'Point', u'coordinates': (-79.48343, 43.732043)}",30,Weekdays from 7 AM - 9 PM,665,Keele St SB ,60,2019-03-20T07:00:00,66.0,6
+123,64 Bainbridge Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.443133, 43.749605)}",30,Weekdays from 7 AM - 9 PM,687,Bainbridge Ave EB ,40,2019-03-20T08:00:00,46.0,6
+124,118 Faywood Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.447988, 43.741241)}",30,Weekdays from 7 AM - 9 PM,730,Faywood Blvd SB ,40,2019-03-07T09:00:00,46.0,6
+125,71 Buckland Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.502933, 43.740208)}",5,Weekdays from 7 AM - 9 PM,889,Buckland Rd NB ,40,2019-12-19T11:00:00,46.0,6
+126,1878 Sheppard Avenue West,EB,,51,"{u'type': u'Point', u'coordinates': (-79.504987, 43.74066)}",30,Weekdays from 7 AM - 9 PM,890,Sheppard Ave W EB ,50,2019-12-19T10:00:00,56.0,6
+127,1434 Sheppard Avenue West,EB,,51,"{u'type': u'Point', u'coordinates': (-79.489981, 43.744064)}",30,Weekdays from 7 AM - 9 PM,924,Sheppard Ave W EB ,50,2020-01-17T11:00:00,56.0,6
+128,56 Stilecroft Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.491564, 43.751099)}",5,Weekdays from 7 AM - 9 PM,945,Stilecroft Dr EB ,40,2020-01-17T10:00:00,46.0,6
+129,271 Faywood Boulevard,NB,,41,"{u'type': u'Point', u'coordinates': (-79.451181, 43.751535)}",30,Weekdays from 7 AM - 9 PM,994,Faywood Blvd NB ,40,2019-03-07T09:00:00,46.0,6
+130,843 Sheppard Avenue West,SB,,41,"{u'type': u'Point', u'coordinates': (-79.451871, 43.75244)}",30,Weekdays from 7 AM - 9 PM,1003,Faywood Blvd SB ,40,2019-03-20T06:00:00,46.0,6
+131,64 Bainbridge Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.443133, 43.749605)}",30,Weekdays from 7 AM - 9 PM,2110,Bainbridge Ave WB ,40,2020-03-24T00:00:00,46.0,6
+132,75 Duncanwoods Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.562424, 43.750864)}",30,Weekdays from 7 AM - 9 PM,36,Duncanwoods Dr NB ,40,2019-01-03T14:00:00,46.0,7
+133,45 Pearldale Avenue,SB,2020-02-14T11:00:00,41,"{u'type': u'Point', u'coordinates': (-79.563417, 43.749319)}",30,Weekdays from 7 AM - 9 PM,92,Pearldale Ave SB ,40,2019-01-03T13:00:00,46.0,7
+134,3383 Weston Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.540982, 43.746207)}",30,Weekdays from 7 AM - 9 PM,155,Weston Rd NB ,50,2019-03-06T09:00:00,56.0,7
+135,3418 Weston Road,SB,2020-03-03T06:00:00,51,"{u'type': u'Point', u'coordinates': (-79.541904, 43.749331)}",30,Weekdays from 7 AM - 9 PM,166,Weston Rd SB ,50,2019-03-06T10:00:00,56.0,7
+136,101 York Gate Boulevard,SB,,51,"{u'type': u'Point', u'coordinates': (-79.518553, 43.761265)}",30,Weekdays from 7 AM - 9 PM,201,Jane St SB ,50,2019-03-11T08:00:00,56.0,7
+137,4357 Jane Street,NB,,51,"{u'type': u'Point', u'coordinates': (-79.519139, 43.763019)}",30,Weekdays from 7 AM - 9 PM,277,Jane St NB ,50,2019-03-11T08:00:00,56.0,7
+138,195 Sentinel Road  ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4979532214, 43.7526621335)}",30,Weekdays from 7 AM - 9 PM,291,Sentinel ,40,2016-01-01T00:00:00,46.0,7
+139,296 Sentinel Road,SB,2019-11-27T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.500184, 43.754667)}",30,Weekdays from 7 AM - 9 PM,294,Sentinel Rd SB ,40,2019-08-01T00:00:00,46.0,7
+140,241 Driftwood Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.516818, 43.761242)}",30,Weekdays from 7 AM - 9 PM,351,Strong Ct NB ,40,2019-03-11T10:00:00,46.0,7
+141,400 Driftwood Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.518422, 43.766131)}",30,Weekdays from 7 AM - 9 PM,588,Driftwood Ave WB ,40,2019-03-07T08:00:00,46.0,7
+142,181 Gracedale Boulevard,NB,,41,"{u'type': u'Point', u'coordinates': (-79.560559, 43.752374)}",30,Weekdays from 7 AM - 9 PM,607,Gracedale Blvd NB ,40,2019-04-02T09:00:00,46.0,7
+143,379 Driftwood Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.516143, 43.766884)}",30,Weekdays from 7 AM - 9 PM,716,Driftwood Ave EB ,40,2019-03-07T09:00:00,46.0,7
+144,85 Spenvalley Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.509081, 43.742787)}",5,Weekdays from 7 AM - 9 PM,823,Spenvalley Dr EB ,40,2019-11-01T12:00:00,46.0,7
+145,28 Bengal Court,WB,,51,"{u'type': u'Point', u'coordinates': (-79.500366, 43.741947)}",30,Weekdays from 7 AM - 9 PM,899,Sheppard Ave W WB ,50,2019-12-27T13:00:00,56.0,7
+146,298 Sentinel Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.500164, 43.754788)}",5,Weekdays from 7 AM - 9 PM,921,Sentinel Rd SB ,40,2020-01-14T09:00:00,46.0,7
+147,101 Yatescastle Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.508455, 43.743909)}",5,Weekdays from 7 AM - 9 PM,935,Yatescastle Dr NB ,40,2019-11-04T11:00:00,46.0,7
+148,82 Yatescastle Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.50874, 43.744166)}",5,Weekdays from 7 AM - 9 PM,965,Yatescastle Dr SB ,40,2019-11-04T11:00:00,46.0,7
+149,302 Grandravine Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.511315, 43.74868)}",5,Weekdays from 7 AM - 9 PM,996,Grandravine Ave EB ,40,2019-11-01T13:00:00,46.0,7
+150,349 Grandravine Drive,WB,2019-12-11T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.513248, 43.747394)}",5,Weekdays from 7 AM - 9 PM,997,Grandravine Ave WB ,40,2019-11-01T13:00:00,46.0,7
+151,74 Ardwick Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.558086, 43.745596)}",30,Weekdays from 7 AM - 9 PM,1004,Ardwick Blvd SB ,40,2019-03-20T07:00:00,46.0,7
+152,241 Driftwood Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.516818, 43.761242)}",30,Weekdays from 7 AM - 9 PM,1940,Driftwood Ave NB ,40,2020-03-10T00:00:00,46.0,7
+153,3424 Weston Road,SB,,51,"{u'type': u'Point', u'coordinates': (-79.541949, 43.749563)}",30,Weekdays from 7 AM - 9 PM,2078,Weston Rd SB ,50,2020-03-13T09:00:00,56.0,7
+154,16 Yorkwoods Gate,WB,,41,"{u'type': u'Point', u'coordinates': (-79.514821, 43.750961)}",5,Weekdays from 7 AM - 9 PM,2082,Yorkwoods Gt WB ,40,2020-03-16T09:00:00,46.0,7
+155,97 Danesbury Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.445072, 43.705551)}",30,Weekdays from 7 AM - 9 PM,217,Danesbury Ave NB ,40,2019-01-03T14:00:00,46.0,8
+156,199 Glenview Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.411349, 43.718503)}",20,Weekdays from 7 AM - 9 PM,329,Broadway Ave EB ,30,2019-04-17T07:00:00,36.0,8
+157,1053 Spadina Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.418695, 43.704381)}",30,Weekdays from 7 AM - 9 PM,345,Spadina RD NB ,40,2019-04-02T12:00:00,46.0,8
+158,51 Gilgorm Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.41756, 43.70484)}",30,Weekdays from 7 AM - 9 PM,503,Gilgorm Rd NB ,40,2019-03-11T08:00:00,46.0,8
+159,1138 Avenue Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.4109316321, 43.7095481522)}",5,Weekdays from 7 AM - 9 PM,558,Avenue Rd SB ,40,2017-04-06T11:00:00,46.0,8
+160,335 Chaplin Crescent,EB,,41,"{u'type': u'Point', u'coordinates': (-79.420404, 43.70386)}",30,Weekdays from 8 AM - 5 PM,565,Chaplin Cres EB ,40,2019-04-02T14:00:00,46.0,8
+161,43 Bedford Park Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.405417, 43.726887)}",5,Weekdays from 7 AM - 9 PM,813,Bedford Park Ave EB ,40,2019-11-07T16:00:00,46.0,8
+162,546 Dufferin Street,NB,2019-10-11T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.430704, 43.647389)}",30,Weekdays from 7 AM - 9 PM,43,Dufferin St NB ,40,2019-08-01T00:00:00,46.0,9
+163,300 Caledonia Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.4581544476, 43.6837699201)}",30,Weekdays from 7 AM - 9 PM,52,303 Caledonia Rd NB ,40,2018-06-12T09:00:00,46.0,9
+164,218 Brock Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.435042, 43.648202)}",20,Weekdays from 7 AM - 9 PM,86,Brock Ave SB (Shirley) ,30,2018-10-18T08:00:00,36.0,9
+165,1221 College Street,EB,2018-07-17T17:00:00,51,"{u'type': u'Point', u'coordinates': (-79.43711, 43.651627)}",30,Weekdays from 7 AM - 9 PM,164,College St EB ,50,2018-01-22T12:00:00,56.0,9
+166,404 Rogers Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.461346, 43.683223)}",30,Weekdays from 7 AM - 9 PM,383,Rogers Rd EB ,40,2017-12-13T15:00:00,46.0,9
+167,324 Caledonia Road,SB,2020-01-31T08:00:00,41,"{u'type': u'Point', u'coordinates': (-79.459062, 43.685191)}",30,Weekdays from 7 AM - 9 PM,391,Caledonia Rd SB ,40,2019-08-01T00:00:00,46.0,9
+168,93 Margueretta Street,SB,,31,"{u'type': u'Point', u'coordinates': (-79.436891, 43.653022)}",20,Weekdays from 7 AM - 9 PM,398,Brock Ave SB ,30,2018-01-24T15:00:00,36.0,9
+169,329 Brock Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.436086, 43.651284)}",20,Weekdays from 7 AM - 9 PM,419,Brock Ave NB ,30,2018-02-05T14:00:00,36.0,9
+170,300 Caledonia Road,WB,2020-01-07T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.459494, 43.683491)}",30,Weekdays from 7 AM - 9 PM,423,Rogers Rd WB ,40,2019-08-01T00:00:00,46.0,9
+171, Lane N College W Sheridan,WB,,51,"{u'type': u'Point', u'coordinates': (-79.435567, 43.652067)}",30,Weekdays from 7 AM - 9 PM,438,College St WB ,50,2018-01-22T12:00:00,56.0,9
+172,31 Concord Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.424233, 43.655064)}",20,Weekdays from 7 AM - 9 PM,603,Concord Ave NB ,30,2019-01-03T15:00:00,36.0,9
+173,145 Brock Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.434071, 43.646038)}",20,Weekdays from 7 AM - 9 PM,659,Brock Ave NB (Shirley) ,30,2019-03-21T08:00:00,36.0,9
+174,300 Caledonia Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.459341, 43.683474)}",5,Weekdays from 7 AM - 9 PM,961,Rogers Rd WB ,40,2020-01-21T14:00:00,46.0,9
+175,328 Caledonia Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.459021, 43.685245)}",5,Weekdays from 7 AM - 9 PM,971,Caledonia Rd SB ,40,2020-02-05T12:00:00,46.0,9
+176,550 Dufferin Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.430688, 43.647528)}",5,Weekdays from 7 AM - 9 PM,974,Dufferin St SB ,40,2020-01-28T11:00:00,46.0,9
+177,184 Gladstone Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.42926, 43.648)}",30,Weekdays from 7 AM - 9 PM,993,Gladstone Ave SB ,40,2018-11-21T15:00:00,46.0,9
+178,447 Dufferin Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.429722, 43.645384)}",30,Weekdays from 7 AM - 9 PM,1002,Dufferin St NB ,40,2018-11-21T15:00:00,46.0,9
+179,33 Phoebe Street,EB,2020-01-31T12:00:00,31,"{u'type': u'Point', u'coordinates': (-79.394826, 43.649857)}",20,Weekdays from 7 AM - 9 PM,147,Bulwer St EB ,30,2019-08-01T00:00:00,36.0,10
+180,255 Spadina Avenue,NB,2020-01-27T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3974079342, 43.6520960764)}",30,Weekdays from 12 AM,214,Spadina Ave NB ,40,2019-08-01T00:00:00,46.0,10
+181,33 Phoebe Street,EB,,31,"{u'type': u'Point', u'coordinates': (-79.394976, 43.649825)}",20,Weekdays from 7 AM - 9 PM,949,Bulwer St EB ,30,2020-01-31T09:00:00,36.0,10
+182,251 Spadina Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.397505, 43.651883)}",30,Weekdays from 12 AM,950,Spadina Ave NB ,40,2020-01-28T15:00:00,46.0,10
+183,5 Elm Avenue,NB,2020-01-31T13:00:00,51,"{u'type': u'Point', u'coordinates': (-79.3797156283, 43.6738113885)}",30,Weekdays from 7 AM - 9 PM,211,Mount Pleasant Rd NB ,50,2019-08-01T00:00:00,56.0,11
+184,370 Spadina Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.3991406413, 43.6549294281)}",30,Weekdays from 12 AM,439,Spadina Ave SB ,40,2017-05-10T12:00:00,46.0,11
+185,128 Mount Pleasant Road,SB,,51,"{u'type': u'Point', u'coordinates': (-79.3808211537, 43.6760162315)}",30,Weekdays from 7 AM - 9 PM,653,Mount Pleasant Rd SB ,50,2017-03-07T11:00:00,56.0,11
+186,124 Rosedale Heights Drive,WB,,31,"{u'type': u'Point', u'coordinates': (-79.377673, 43.68775)}",20,Weekdays from 7 AM - 9 PM,721,Rosedale Hts WB ,30,2019-04-11T09:00:00,36.0,11
+187,5 Elm Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.37977, 43.673609)}",30,Weekdays from 7 AM - 9 PM,943,Mt. Pleasant Rd SB ,50,2020-01-31T14:00:00,56.0,11
+188,1596 Bathurst Street,,2019-11-27T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.420367, 43.688177)}",30,Weekdays from 7 AM - 9 PM,44,Bathurst and Nina ,40,2019-08-01T00:00:00,46.0,12
+189,1384 Bathurst Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.41732, 43.680551)}",30,Weekdays from 7 AM - 9 PM,66,Bathurst St SB ,40,2019-03-20T08:00:00,46.0,12
+190,636 Glenholme Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.445134, 43.696118)}",30,Weekdays from 7 AM - 9 PM,178,Glenholme Ave SB ,40,2019-04-03T08:00:00,46.0,12
+191,18 Brownlow Avenue,EB,,61,"{u'type': u'Point', u'coordinates': (-79.391526, 43.706447)}",30,Weekdays from 7 AM - 9 PM,371,Eglinton Ave E EB ,60,2019-03-20T06:00:00,66.0,12
+192,142 Ava Road,EB,,31,"{u'type': u'Point', u'coordinates': (-79.43043, 43.696739)}",20,Weekdays from 7 AM - 9 PM,436,Ava Rd EB ,30,2018-12-07T10:00:00,,12
+193,2327 Dufferin Street,WB,,41,"{u'type': u'Point', u'coordinates': (-79.447427, 43.693029)}",5,Weekdays from 7 AM - 9 PM,770,Spenvalley Dr WB ,40,2019-10-24T13:00:00,46.0,12
+194,2331 Dufferin Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.449296, 43.693535)}",5,Weekdays from 7 AM - 9 PM,773,Dufferin St NB ,40,2019-10-24T14:00:00,46.0,12
+195,457 Avenue Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.401071, 43.685851)}",30,Weekdays from 7 AM - 9 PM,992,Avenue Rd NB ,50,2019-11-27T10:00:00,56.0,12
+196,142 Ava Road,WB,,31,"{u'type': u'Point', u'coordinates': (-79.43043, 43.696739)}",20,Weekdays from 7 AM - 9 PM,2112,Ava Rd WB ,30,2020-03-24T00:00:00,,12
+197,83 Alexander Street,SB,,31,"{u'type': u'Point', u'coordinates': (-79.378701, 43.664014)}",20,Weekdays from 7 AM - 9 PM,9,Mutual St SB ,30,2018-02-05T15:00:00,36.0,13
+198,5 Maitland Place,SB,,41,"{u'type': u'Point', u'coordinates': (-79.375591, 43.665549)}",30,Weekdays from 7 AM - 9 PM,332,Homewood Ave SB ,40,2017-06-22T09:00:00,46.0,13
+199,417 Sherbourne Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.373619, 43.664843)}",30,Weekdays from 7 AM - 9 PM,541,Sherbourne St NB ,40,2018-02-05T08:00:00,46.0,13
+200,437 Sherbourne Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.374199, 43.666165)}",30,Weekdays from 7 AM - 9 PM,553,Sherbourne St SB ,40,2018-02-05T08:00:00,46.0,13
+201,147 Durant Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.330374, 43.694512)}",20,Weekdays from 7 AM - 9 PM,738,Durant Ave NB ,30,2019-11-21T14:00:00,36.0,14
+202,83 Alexander Street,EB,2020-03-30T10:00:00,31,"{u'type': u'Point', u'coordinates': (-79.379602, 43.663747)}",20,Weekdays from 7 AM - 9 PM,589,Alexander St EB ,30,2017-07-11T09:00:00,36.0,13
+203,444 Sherbourne Street,NB,2020-02-09T03:00:00,41,"{u'type': u'Point', u'coordinates': (-79.375084, 43.665219)}",30,Weekdays from 7 AM - 9 PM,609,Homewood Ave NB ,40,2018-02-05T13:00:00,46.0,13
+204,80 Sackville Street,EB,,41,"{u'type': u'Point', u'coordinates': (-79.362375, 43.655995)}",5,Weekdays from 7 AM - 9 PM,972,Queen St EB ,40,2020-01-13T12:00:00,46.0,13
+205,446 Queen Street East,WB,,41,"{u'type': u'Point', u'coordinates': (-79.360953, 43.656437)}",5,Weekdays from 7 AM - 9 PM,978,Queen St WB ,40,2020-01-14T11:00:00,46.0,13
+206,437 Sherbourne Street,NB,,41,"{u'type': u'Point', u'coordinates': (-79.374199, 43.666165)}",30,Weekdays from 7 AM - 9 PM,1997,Sherbourne St NB ,40,2020-03-10T00:00:00,46.0,13
+207,540 Jones Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.3390653421, 43.6771506849)}",30,Weekdays from 7 AM - 9 PM,27,Jones Ave SB ,40,2017-03-07T11:00:00,46.0,14
+208,140 Glebeholme Boulevard,WB,,31,"{u'type': u'Point', u'coordinates': (-79.332557, 43.684151)}",20,Weekdays from 7 AM - 9 PM,55,Glebeholme Blvd WB ,30,2019-04-03T08:00:00,36.0,14
+209,226 Broadview Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.351235, 43.661865)}",30,Weekdays from 7 AM - 9 PM,71,Broadview Ave SB ,40,2018-02-02T14:00:00,46.0,14
+210,155 Broadview Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.350384, 43.660277)}",30,Weekdays from 7 AM - 9 PM,103,Broadview Ave NB ,40,2018-02-02T14:00:00,46.0,14
+211,363 Jones Avenue,SB,2020-02-27T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.337305, 43.673331)}",30,Weekdays from 7 AM - 9 PM,142,Jones Ave SB ,40,2019-01-01T00:00:00,46.0,14
+212,180 Carlaw Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.340014, 43.660605)}",30,Weekdays from 7 AM - 9 PM,172,Carlaw Ave SB ,40,2018-02-02T13:00:00,46.0,14
+213,285 Donlands Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.340684, 43.688903)}",30,Weekdays from 7 AM - 9 PM,187,Donlands Ave NB ,40,2019-01-03T14:00:00,46.0,14
+214,487 Jones Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.338471, 43.676307)}",30,Weekdays from 7 AM - 9 PM,220,Jones Ave NB ,40,2018-02-02T13:00:00,46.0,14
+215,343 Jones Avenue,NB,2019-12-09T11:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3368117282, 43.6722795217)}",30,Weekdays from 7 AM - 9 PM,259,Jones Ave NB ,40,2019-01-01T00:00:00,46.0,14
+216,930 Dundas Street East,WB,2020-03-02T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.349116, 43.663094)}",30,Weekdays from 7 AM - 9 PM,275,Dundas St E WB ,40,2019-01-01T00:00:00,46.0,14
+217,800 Greenwood Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.334377, 43.682012)}",20,Weekdays from 7 AM - 9 PM,413,Strathmore Blvd WB ,30,2019-04-15T10:00:00,36.0,14
+218,449 O'Connor Drive,EB,2018-04-17T08:00:00,51,"{u'type': u'Point', u'coordinates': (-79.332715, 43.696974)}",30,Weekdays from 7 AM - 9 PM,464,499 O'Connor Dr EB  - Trial,50,2018-04-06T15:00:00,56.0,14
+219,384 Plains Road,WB,2020-01-07T23:00:00,31,"{u'type': u'Point', u'coordinates': (-79.3300418041, 43.6957933178)}",20,Weekdays from 7 AM - 9 PM,473,Plains Rd WB ,30,2019-08-01T00:00:00,36.0,14
+220,123 Blake Street,NB,,31,"{u'type': u'Point', u'coordinates': (-79.339621, 43.675992)}",20,Weekdays from 7 AM - 9 PM,479,Blake St NB ,30,2019-03-11T07:00:00,36.0,14
+221,701 Greenwood Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.332991, 43.683007)}",30,Weekdays from 7 AM - 9 PM,515,Greenwood Ave NB ,40,2019-04-03T09:00:00,46.0,14
+222,137 Carlaw Avenue,NB,2020-03-31T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.339416, 43.659536)}",30,Weekdays from 7 AM - 9 PM,560,Carlaw Ave NB ,40,2018-02-09T13:00:00,46.0,14
+223,433 Eastern Avenue,,2018-02-09T10:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3436940165, 43.6572348239)}",30,Weekdays from 12 AM,606,433 Eastern Ave ,40,2016-11-09T11:00:00,46.0,14
+224, Plains Road,EB,,31,"{u'type': u'Point', u'coordinates': (-79.332489, 43.695138)}",20,Weekdays from 7 AM - 9 PM,612,Plains Rd EB ,30,2018-02-02T15:00:00,36.0,14
+225,27 Glebeholme Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.337171, 43.683109)}",20,Weekdays from 7 AM - 9 PM,620,Glebeholme Blvd EB ,30,2019-04-03T09:00:00,36.0,14
+226,272 Donlands Avenue,SB,2020-01-07T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.341062, 43.690131)}",30,Weekdays from 7 AM - 9 PM,634,Donlands Ave SB ,40,2019-08-01T00:00:00,46.0,14
+227,592 Coxwell Avenue,SB,2020-01-07T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.322445, 43.680467)}",5,Weekdays from 7 AM - 9 PM,689,Coxwell Ave SB ,40,2019-10-18T08:00:00,46.0,14
+228,21 Lesmount Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.340391, 43.690467)}",30,Weekdays from 7 AM - 9 PM,710,Lesmount Ave SB ,40,2019-01-03T14:00:00,46.0,14
+229,93 Strathmore Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.336647, 43.681352)}",20,Weekdays from 7 AM - 9 PM,715,Stratmore Blvd EB ,30,2019-04-03T08:00:00,36.0,14
+230,129 Durant Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.329685, 43.693855)}",5,Weekdays from 7 AM - 9 PM,747,Cosburn Ave WB ,40,2019-11-21T14:00:00,46.0,14
+231,501 Cosburn Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.331879, 43.693257)}",5,Weekdays from 7 AM - 9 PM,804,Cosburn Ave EB ,40,2019-11-21T14:00:00,46.0,14
+232,555 Mortimer Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.328029, 43.68927)}",20,Weekdays from 7 AM - 9 PM,854,Durant Ave NB ,30,2019-12-02T14:00:00,36.0,14
+233,845 Coxwell Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.32693, 43.691306)}",5,Weekdays from 7 AM - 9 PM,860,Coxwell Ave SB ,40,2019-12-05T14:00:00,46.0,14
+234,520 Cosburn Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.330745, 43.694763)}",20,Weekdays from 7 AM - 9 PM,866,Durant Ave SB ,30,2019-11-28T10:00:00,36.0,14
+235,13 Coatsworth Crescent,NB,,41,"{u'type': u'Point', u'coordinates': (-79.321861, 43.679049)}",5,Weekdays from 7 AM - 9 PM,914,Coxwell Ave NB ,40,2020-01-15T10:00:00,46.0,14
+236,594 Coxwell Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.32251, 43.680547)}",5,Weekdays from 7 AM - 9 PM,939,Coxwell Ave SB ,40,2020-01-21T09:00:00,46.0,14
+237,910 Dundas Street East,WB,,41,"{u'type': u'Point', u'coordinates': (-79.349841, 43.662805)}",5,Weekdays from 7 AM - 9 PM,951,Dundas St WB ,40,2020-01-15T12:00:00,46.0,14
+238,36 Plains Road,WB,,31,"{u'type': u'Point', u'coordinates': (-79.331866, 43.695311)}",20,Weekdays from 7 AM - 9 PM,983,Plains Ave WB ,30,2020-01-15T10:00:00,36.0,14
+239,245 Riverdale Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.342871, 43.670906)}",20,Weekdays from 7 AM - 9 PM,1929,Riverdale Ave EB ,30,2020-02-20T10:00:00,36.0,14
+240,932 Dundas Street East,WB,,41,"{u'type': u'Point', u'coordinates': (-79.348912, 43.663121)}",5,Weekdays from 7 AM - 9 PM,1955,Dundas St E WB ,40,2020-03-02T12:00:00,46.0,14
+241,323 Jones Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.336518, 43.671397)}",5,Weekdays from 7 AM - 9 PM,1964,Jones Ave NB ,40,2020-02-21T14:00:00,46.0,14
+242,220 Langley Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.342405, 43.670148)}",5,Weekdays from 7 AM - 9 PM,1992,Langley Ave WB ,40,2020-02-18T11:00:00,46.0,14
+243,210 Langley Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.342879, 43.669923)}",5,Weekdays from 7 AM - 9 PM,2026,Langley Ave EB ,40,2020-02-18T10:00:00,46.0,14
+244,260 Riverdale Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.342517, 43.671173)}",20,Weekdays from 7 AM - 9 PM,2043,Riverdale Ave WB ,30,2020-02-19T09:00:00,36.0,14
+245,42 Keewatin Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.398038, 43.712579)}",20,Weekdays from 7 AM - 9 PM,94,Keewatin Ave EB ,30,2017-11-30T15:00:00,36.0,15
+246,396 Belsize Drive,WB,,31,"{u'type': u'Point', u'coordinates': (-79.376252, 43.704903)}",20,Weekdays from 7 AM - 9 PM,160,Belsize Dr WB ,30,2019-01-03T15:00:00,36.0,15
+247,3 Portsmith Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.370873, 43.753903)}",30,Weekdays from 7 AM - 9 PM,169,Banbury Rd SB ,40,2019-03-20T07:00:00,46.0,15
+248,341 Banbury Road,NB,2020-01-20T15:00:00,41,"{u'type': u'Point', u'coordinates': (-79.370695, 43.754006)}",30,Weekdays from 7 AM - 9 PM,248,Banbury Rd NB ,40,2019-03-20T07:00:00,46.0,15
+249,33 Erskine Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.398131, 43.711185)}",20,Weekdays from 7 AM - 9 PM,267,Erskine Ave EB ,30,2017-11-30T16:00:00,36.0,15
+250,194 Keewatin Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.393336945, 43.7135894101)}",20,Weekdays from 7 AM - 9 PM,350,Keewatin Ave WB ,30,2017-11-30T15:00:00,36.0,15
+251,303 Blythwood Road ,EB,,41,"{u'type': u'Point', u'coordinates': (-79.3908789822, 43.7185310166)}",30,Weekdays from 7 AM - 9 PM,366,Blythwood Rd EB ,40,2017-01-12T11:00:00,46.0,15
+252,28 Broadway Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.397357, 43.709914)}",20,Weekdays from 7 AM - 9 PM,416,Broadway Ave WB ,30,2019-03-20T06:00:00,36.0,15
+253,1 Versailles Court,EB,2020-02-07T17:00:00,61,"{u'type': u'Point', u'coordinates': (-79.375956, 43.750273)}",30,Weekdays from 7 AM - 9 PM,451,York Mills Rd EB ,60,2019-04-12T06:00:00,66.0,15
+254,378 Banbury Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.371364, 43.756183)}",30,Weekdays from 7 AM - 9 PM,509,Banbury Rd SB ,40,2019-03-08T08:00:00,46.0,15
+255,181 Cleveland Street,SB,,31,"{u'type': u'Point', u'coordinates': (-79.377696, 43.705672)}",20,Weekdays from 7 AM - 9 PM,528,Cheston Rd SB ,30,2019-01-03T14:00:00,36.0,15
+256,64 Erskine Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.396541, 43.711757)}",20,Weekdays from 7 AM - 9 PM,540,Erskine Ave WB ,30,2017-11-30T15:00:00,36.0,15
+257,doris,WB,,31,"{u'type': u'Point', u'coordinates': (-79.3812274167, 43.7174366325)}",20,Weekdays from 7 AM - 9 PM,581,Mimico Ave WB ,30,2019-03-20T07:00:00,36.0,15
+258,301 Banbury Road,WB,,61,"{u'type': u'Point', u'coordinates': (-79.37079, 43.751548)}",30,Weekdays from 7 AM - 9 PM,604,York Mills Rd WB ,60,2019-04-12T08:00:00,66.0,15
+259,502 Blythwood Road ,WB,,41,"{u'type': u'Point', u'coordinates': (-79.3853321739, 43.7198530928)}",30,Weekdays from 7 AM - 9 PM,608,Blythwood Rd WB ,40,2017-01-12T11:00:00,46.0,15
+260,837 Millwood Road  ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3671794386, 43.7048113786)}",30,Weekdays from 7 AM - 9 PM,708,Millwood ,40,2016-01-01T10:00:00,46.0,15
+261,135 Overlea Boulevard,EB,,51,"{u'type': u'Point', u'coordinates': (-79.336226, 43.709216)}",30,Weekdays from 7 AM - 9 PM,874,Overlea Blvd EB ,50,2019-12-09T14:00:00,56.0,15
+262,15 Underhill Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.325313, 43.742408)}",30,Weekdays from 7 AM - 9 PM,123,Underhill Dr NB ,40,2018-10-25T10:00:00,46.0,16
+263,4 Rustywood Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.320933, 43.751851)}",5,Weekdays from 7 AM - 9 PM,212,Avonwick Gt NB ,40,2018-01-26T12:00:00,46.0,16
+264,27 Roanoke Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.32569, 43.741762)}",30,Weekdays from 7 AM - 9 PM,522,Roanoke Rd EB ,40,2018-10-18T14:00:00,46.0,16
+265,169 Grenoble Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.328337, 43.712468)}",5,Weekdays from 7 AM - 9 PM,567,Grenoble Dr WB ,40,2017-05-26T12:00:00,46.0,16
+266,48 Grenoble Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.331486, 43.716434)}",30,Weekdays from 7 AM - 9 PM,647,Grenoble Dr WB ,40,2017-05-26T12:00:00,46.0,16
+267,16 Gateway Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.332705, 43.710406)}",30,Weekdays from 7 AM - 9 PM,667,Gateway Blvd EB ,40,2017-05-26T12:00:00,46.0,16
+268,703 Don Mills Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.333634, 43.708044)}",30,Weekdays from 7 AM - 9 PM,876,Don Mills Rd NB ,50,2019-12-10T15:00:00,56.0,16
+269,14 Gateway Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.332874, 43.710487)}",5,Weekdays from 7 AM - 9 PM,879,Gateway Blvd WB ,40,2019-12-11T13:00:00,46.0,16
+270,1342 York Mills Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.320141, 43.762526)}",5,Weekdays from 7 AM - 9 PM,1966,York Mills Rd WB ,40,2020-02-25T10:00:00,46.0,16
+271,49 Ranchdale Crescent,NB,,41,"{u'type': u'Point', u'coordinates': (-79.322201, 43.751879)}",5,Weekdays from 7 AM - 9 PM,1983,Ranchdale Cres NB ,40,2020-02-24T12:00:00,46.0,16
+272,30 Roywood Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.323752, 43.764561)}",5,Weekdays from 7 AM - 9 PM,2009,Roywood Dr SB ,40,2020-02-25T12:00:00,46.0,16
+273,108 Van Horne Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.358544, 43.785459)}",5,Weekdays from 7 AM - 9 PM,68,Van Horne Ave WB ,40,2019-07-24T07:00:00,46.0,17
+274,63 Van Horne Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.360229, 43.785002)}",5,Weekdays from 7 AM - 9 PM,69,Van Horne Ave EB ,40,2019-07-24T07:00:00,46.0,17
+275,7 Snowcrest Avenue,SB,2020-02-24T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.387372, 43.792925)}",30,Weekdays from 7 AM - 9 PM,104,Snowcrest Ave SB ,40,2019-01-01T00:00:00,46.0,17
+276,172 Old Sheppard Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.327683, 43.779968)}",30,Weekdays from 7 AM - 9 PM,114,Old Sheppard Ave EB ,40,2018-11-21T15:00:00,46.0,17
+277,604 Van Horne Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.332991, 43.788514)}",5,Weekdays from 7 AM - 9 PM,180,Van Horne Ave WB ,40,2019-07-24T10:00:00,46.0,17
+278,172 Brian Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.334746, 43.787179)}",5,Weekdays from 7 AM - 9 PM,213,Brian Dr SB ,40,2019-07-24T12:00:00,46.0,17
+279,10 Snowcrest Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.38674, 43.792513)}",30,Weekdays from 7 AM - 9 PM,280,Snowcrest Ave NB ,40,2018-01-22T08:00:00,46.0,17
+280,7 Bunty Lane,NB,,41,"{u'type': u'Point', u'coordinates': (-79.385468, 43.77458)}",30,Weekdays from 7 AM - 9 PM,290,Bunty Ln NB ,40,2018-10-18T08:00:00,46.0,17
+281,561 Van Horne Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.336405, 43.787672)}",5,Weekdays from 7 AM - 9 PM,299,Van Horne Ave EB ,40,2019-07-24T11:00:00,46.0,17
+282,312 Seneca Hill Drive,EB,,61,"{u'type': u'Point', u'coordinates': (-79.356609, 43.790593)}",30,Weekdays from 7 AM - 9 PM,301,Seneca Hill Dr EB ,60,2019-03-11T08:00:00,66.0,17
+283,110 Pineway Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.373896, 43.796968)}",30,Weekdays from 7 AM - 9 PM,337,Pineway Blvd SB ,40,2019-03-11T08:00:00,46.0,17
+284,164 Cherokee Boulevard ,SB,,41,"{u'type': u'Point', u'coordinates': (-79.3371011468, 43.7924072346)}",30,Weekdays from 7 AM - 9 PM,349,Cherokee Blvd SB ,40,2017-02-24T10:00:00,46.0,17
+285,615 Seneca Hill Drive,SB,,61,"{u'type': u'Point', u'coordinates': (-79.3523, 43.790707)}",30,Weekdays from 7 AM - 9 PM,364,Don Mills Rd SB ,60,2019-03-11T08:00:00,66.0,17
+286,45 Palomino Crescent,SB,,41,"{u'type': u'Point', u'coordinates': (-79.385869, 43.77722)}",30,Weekdays from 7 AM - 9 PM,490,Bunty Ln SB ,40,2018-10-16T14:00:00,46.0,17
+287,93 Pineway Boulevard,NB,,41,"{u'type': u'Point', u'coordinates': (-79.374373, 43.795309)}",30,Weekdays from 7 AM - 9 PM,492,Pineway Blvd NB ,40,2019-03-11T08:00:00,46.0,17
+288,2789 Victoria Park Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.32626, 43.781952)}",30,Weekdays from 7 AM - 9 PM,557,Victorial Park Ave SB ,50,2018-10-26T08:00:00,56.0,17
+289,288 Van Horne Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.334473, 43.787029)}",5,Weekdays from 7 AM - 9 PM,598,Brian Dr NB ,40,2019-07-24T13:00:00,46.0,17
+290,615 Seneca Hill Drive  ,EB,,41,"{u'type': u'Point', u'coordinates': (-79.3521215172, 43.7906840293)}",30,Weekdays from 7 AM - 9 PM,619,Seneca Hill Dr EB ,40,2016-11-10T13:00:00,46.0,17
+291,669 Seneca Hill Drive ,SB,,41,"{u'type': u'Point', u'coordinates': (-79.3506784888, 43.7924962978)}",30,Weekdays from 7 AM - 9 PM,649,Seneca Hill Dr SB ,40,2016-11-10T13:00:00,46.0,17
+292,4 Snowcrest Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.387414, 43.793015)}",5,Weekdays from 7 AM - 9 PM,1946,Snowcrest Ave SB ,40,2020-02-25T14:00:00,46.0,17
+293,206 Doris Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.410598, 43.768863)}",30,Weekdays from 7 AM - 9 PM,13,Princess Ave NB ,40,2019-03-07T10:00:00,46.0,18
+294,76 Maxome Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.40102, 43.789072)}",30,Weekdays from 7 AM - 9 PM,34,Maxome Ave SB ,40,2019-03-07T08:00:00,46.0,18
+295,213 Churchill Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.42895, 43.769973)}",30,Weekdays from 7 AM - 9 PM,62,Churchill Ave EB ,40,2019-03-07T10:00:00,46.0,18
+296,75 Cactus Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.433148, 43.789185)}",5,Weekdays from 7 AM - 9 PM,82,Cactus Ave NB ,40,2019-08-02T08:00:00,46.0,18
+297,157 Avondale Avenue ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4012703152, 43.7600937109)}",30,Weekdays from 7 AM - 9 PM,135,Avondale ,40,2016-01-01T10:00:00,46.0,18
+298,288 Pleasant Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.434271, 43.789577)}",5,Weekdays from 7 AM - 9 PM,140,Pleasant Ave WB ,40,2019-08-08T09:00:00,46.0,18
+299,105 McKee Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.408447, 43.774175)}",30,Weekdays from 7 AM - 9 PM,223,McKee Ave WB ,40,2018-10-18T14:00:00,46.0,18
+300,65 McKee Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.410792, 43.773567)}",30,Weekdays from 7 AM - 9 PM,270,McKee Ave EB ,40,2018-10-18T14:00:00,46.0,18
+301,50 Hounslow Avenue  ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4169505091, 43.7756900469)}",30,Weekdays from 7 AM - 9 PM,302,Beecroft ,40,2016-01-01T00:00:00,46.0,18
+302,246 Drewry Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.428871, 43.784541)}",30,Weekdays from 7 AM - 9 PM,306,Drewry Ave EB ,40,2018-02-05T14:00:00,46.0,18
+303,111 Yorkview Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.434526, 43.772207)}",30,Weekdays from 7 AM - 9 PM,321,Yorkview DR WB ,40,2019-03-07T10:00:00,46.0,18
+304,212 Drewry Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.427162, 43.785065)}",30,Weekdays from 7 AM - 9 PM,331,Drewry Ave WB ,40,2018-02-06T09:00:00,46.0,18
+305,120 Cactus Avenue  ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4339557143, 43.791565)}",30,Weekdays from 7 AM - 9 PM,355,Cactus ,40,2016-01-01T00:00:00,46.0,18
+306,304 Finch Avenue East,WB,,51,"{u'type': u'Point', u'coordinates': (-79.393511, 43.784719)}",30,Weekdays from 7 AM - 9 PM,358,Finch Ave E WB ,50,2019-04-03T09:00:00,56.0,18
+307,84 Norton Avenue ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4091023655, 43.7731412963)}",30,Weekdays from 7 AM - 9 PM,402,Kenneth ,40,2016-01-01T00:00:00,46.0,18
+308,321 Hollywood Avenue ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3945969792, 43.7694496762)}",30,Weekdays from 7 AM - 9 PM,422,Hollywood ,40,2016-01-01T00:00:00,46.0,18
+309,194 Doris Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.410235, 43.768329)}",30,Weekdays from 7 AM - 9 PM,502,Princess Ave SB ,40,2019-03-12T06:00:00,46.0,18
+310,40 Maxome Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.400328, 43.786434)}",30,Weekdays from 7 AM - 9 PM,513,Maxome Ave NB ,40,2019-03-07T08:00:00,46.0,18
+311,257 Finch Avenue East,EB,,51,"{u'type': u'Point', u'coordinates': (-79.397247, 43.783736)}",30,Weekdays from 7 AM - 9 PM,570,Finch Ave E EB ,50,2019-04-03T09:00:00,56.0,18
+312,224 Ellerslie Avenue  ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.4242353888, 43.7693683263)}",30,Weekdays from 7 AM - 9 PM,599,Ellerslie ,40,2016-01-01T00:00:00,46.0,18
+313,226 Cameron Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.422069, 43.754731)}",20,Weekdays from 7 AM - 9 PM,771,Cameron Ave WB ,30,2019-04-11T06:00:00,36.0,18
+314,211 Cameron Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.422778, 43.754408)}",20,Weekdays from 7 AM - 9 PM,794,Cameron Ave EB ,30,2019-04-11T06:00:00,36.0,18
+315,159 Finch Avenue West,WB,,51,"{u'type': u'Point', u'coordinates': (-79.429203, 43.776564)}",30,Weekdays from 7 AM - 9 PM,810,Finch Ave W WB ,50,2019-11-19T11:00:00,56.0,18
+316,156 Finch Avenue West,EB,,51,"{u'type': u'Point', u'coordinates': (-79.429334, 43.776825)}",30,Weekdays from 7 AM - 9 PM,846,Finch Ave W EB ,50,2019-11-15T10:00:00,56.0,18
+317,194 Doris Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.410235, 43.768329)}",30,Weekdays from 7 AM - 9 PM,2034,Doris Ave SB ,40,2020-03-10T00:00:00,46.0,18
+318,208 Doris Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.410669, 43.769058)}",30,Weekdays from 7 AM - 9 PM,2061,Doris Ave NB ,40,2020-03-10T00:00:00,46.0,18
+319,156 Finch Avenue West,WB,,51,"{u'type': u'Point', u'coordinates': (-79.429334, 43.776825)}",30,Weekdays from 7 AM - 9 PM,2097,Finch Ave W WB ,50,2020-03-19T00:00:00,56.0,18
+320,72 Lyall Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.293645, 43.681563)}",20,Weekdays from 7 AM - 9 PM,33,Lyall Ave EB ,30,2019-04-11T09:00:00,36.0,19
+321,737 Kingston Road,EB,2020-02-27T05:00:00,41,"{u'type': u'Point', u'coordinates': (-79.2946227, 43.6795402)}",30,Weekdays from 7 AM - 9 PM,79,Kingston Rd EB ,40,2019-06-19T13:00:00,46.0,19
+322,561 Coxwell Avenue,NB,2020-01-07T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.3216378412, 43.6787024675)}",30,Weekdays from 7 AM - 9 PM,107,Coxwell Ave NB ,40,2019-08-01T00:00:00,46.0,19
+323,179 Wolverleigh Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.323058, 43.685153)}",20,Weekdays from 7 AM - 9 PM,194,Wolverleigh Blvd EB ,30,2019-04-10T10:00:00,36.0,19
+324,351 Glebeholme Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.323251, 43.686059)}",20,Weekdays from 7 AM - 9 PM,230,Glebeholme Blvd EB ,30,2019-04-03T09:00:00,36.0,19
+325,315 Wolverleigh Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.317147, 43.68649)}",20,Weekdays from 7 AM - 9 PM,377,Wolverleigh Blvd EB ,30,2019-03-11T07:00:00,36.0,19
+326,136 Main Street,SB,,41,"{u'type': u'Point', u'coordinates': (-79.299939, 43.683148)}",30,Weekdays from 7 AM - 9 PM,465,Main St SB ,40,2018-11-21T15:00:00,46.0,19
+327,280 Wolverleigh Boulevard,WB,,31,"{u'type': u'Point', u'coordinates': (-79.319879, 43.685987)}",20,Weekdays from 7 AM - 9 PM,506,Wolverleigh Blvd WB ,30,2019-04-03T09:00:00,36.0,19
+328,346 Wolverleigh Boulevard,WB,,31,"{u'type': u'Point', u'coordinates': (-79.315286, 43.686967)}",20,Weekdays from 7 AM - 9 PM,526,Wolverleigh Blvd WB ,30,2019-03-11T08:00:00,36.0,19
+329,490 Glebeholme Boulevard,WB,,31,"{u'type': u'Point', u'coordinates': (-79.320118, 43.686839)}",20,Weekdays from 7 AM - 9 PM,569,Glebeholme Blvd WB ,30,2019-04-03T11:00:00,36.0,19
+330,91 Main Street,WB,,31,"{u'type': u'Point', u'coordinates': (-79.299147, 43.681859)}",20,Weekdays from 7 AM - 9 PM,587,Swanwick WB ,30,2018-11-02T12:00:00,36.0,19
+331,804 Kingston Road,WB,2020-03-29T23:00:00,41,"{u'type': u'Point', u'coordinates': (-79.293041, 43.680152)}",30,Weekdays from 7 AM - 9 PM,602,Kingston Rd WB ,40,2019-03-11T07:00:00,46.0,19
+332,50 Swanwick Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.298642, 43.682461)}",20,Weekdays from 7 AM - 9 PM,652,Main St NB ,30,2019-03-20T10:00:00,36.0,19
+333,390 Kingston Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.305682, 43.676037)}",30,Weekdays from 7 AM - 9 PM,678,Kingston Rd WB ,40,2019-04-03T09:00:00,46.0,19
+334,39 Lyall Avenue,WB,2019-05-14T09:00:00,31,"{u'type': u'Point', u'coordinates': (-79.295539, 43.681014)}",20,Weekdays from 7 AM - 9 PM,683,Lyall Ave WB ,30,2019-04-11T09:00:00,36.0,19
+335,347 Kingston Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.306375, 43.675173)}",30,Weekdays from 7 AM - 9 PM,720,Kingston Rd EB  ,40,2019-04-03T08:00:00,46.0,19
+336,1782 Gerrard Street East,WB,,41,"{u'type': u'Point', u'coordinates': (-79.31559, 43.677527)}",5,Weekdays from 7 AM - 9 PM,859,Gerrard St E WB ,40,2019-11-28T14:00:00,46.0,19
+337,15 Earl Haig Avenue,EB,,31,"{u'type': u'Point', u'coordinates': (-79.321045, 43.680949)}",20,Weekdays from 7 AM - 9 PM,864,Currie Ave EB ,30,2019-11-27T14:00:00,36.0,19
+338,1696 Gerrard Street East,EB,,41,"{u'type': u'Point', u'coordinates': (-79.316512, 43.676506)}",5,Weekdays from 7 AM - 9 PM,865,Gerrard St E EB ,40,2019-11-28T12:00:00,46.0,19
+339,825 Coxwell Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.325939, 43.689504)}",5,Weekdays from 7 AM - 9 PM,868,Coxwell Ave NB ,40,2019-12-02T14:00:00,46.0,19
+340,880 Victoria Park Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.291177, 43.697749)}",30,Weekdays from 7 AM - 9 PM,872,Victoria Park Ave SB ,50,2019-12-09T09:00:00,56.0,19
+341,88 Bowmore Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.314405, 43.676705)}",5,Weekdays from 7 AM - 9 PM,875,Bowmore Rd NB ,40,2019-12-10T14:00:00,46.0,19
+342,15 Earl Haig Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.320765, 43.680999)}",20,Weekdays from 7 AM - 9 PM,991,Currie Ave WB ,30,2019-11-27T15:00:00,36.0,19
+343,729 Kingston Road,EB,,41,"{u'type': u'Point', u'coordinates': (-79.294998, 43.679548)}",5,Weekdays from 7 AM - 9 PM,1931,Kingston Rd EB ,40,2020-03-02T11:00:00,46.0,19
+344,50 Chapman Avenue,WB,,31,"{u'type': u'Point', u'coordinates': (-79.298442, 43.701058)}",20,Weekdays from 7 AM - 9 PM,2074,Chapman Ave WB ,30,2020-03-12T12:00:00,36.0,19
+345,101 Barrington Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.300505, 43.69226)}",20,Weekdays from 7 AM - 9 PM,2100,Palmer St. NB ,30,2020-03-20T11:00:00,36.0,19
+346,19 Palmer Street,SB,,31,"{u'type': u'Point', u'coordinates': (-79.300068, 43.691613)}",20,Weekdays from 7 AM - 9 PM,2103,Palmer St. SB ,30,2020-03-20T12:00:00,36.0,19
+347,101 Barrington Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.300505, 43.69226)}",20,Weekdays from 7 AM - 9 PM,2108,Palmer St. SB ,30,2020-03-23T00:00:00,36.0,19
+348,17 Chapman Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.301361, 43.700265)}",5,Weekdays from 7 AM - 9 PM,2114,Chapman Ave EB ,40,2020-03-12T12:00:00,46.0,19
+349,94 Denton Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.280143, 43.694897)}",30,Weekdays from 7 AM - 9 PM,18,Denton Ave WB ,40,2018-01-12T11:00:00,46.0,20
+350,752 Danforth Road,WB,,51,"{u'type': u'Point', u'coordinates': (-79.257321, 43.720837)}",30,Weekdays from 7 AM - 9 PM,67,Danforth Rd WB ,50,2019-03-11T07:00:00,56.0,20
+351,27 Pharmacy Avenue,NB,,51,"{u'type': u'Point', u'coordinates': (-79.283773, 43.69337)}",30,Weekdays from 7 AM - 9 PM,76,Pharmacy Ave NB ,50,2018-11-21T15:00:00,56.0,20
+352,93 Byng Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.280483, 43.694157)}",30,Weekdays from 7 AM - 9 PM,78,Byng Ave NB ,40,2018-01-22T08:00:00,46.0,20
+353,18 Thatcher Avenue,NB,,31,"{u'type': u'Point', u'coordinates': (-79.239512, 43.715877)}",20,Weekdays from 7 AM - 9 PM,199,Brimley Rd S NB ,30,2019-04-03T09:00:00,36.0,20
+354,486 Midland Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.250094, 43.715461)}",30,Weekdays from 7 AM - 9 PM,263,Midland Ave NB ,40,2019-03-11T08:00:00,46.0,20
+355,23 MacDuff Crescent,EB,,41,"{u'type': u'Point', u'coordinates': (-79.241459, 43.725655)}",30,Weekdays from 7 AM - 9 PM,334,MacDuff Cres EB ,40,2019-03-11T08:00:00,46.0,20
+356,43 MacDuff Crescent,WB,,41,"{u'type': u'Point', u'coordinates': (-79.239719, 43.726204)}",30,Weekdays from 7 AM - 9 PM,343,MacDuff Cres WB ,40,2019-03-11T07:00:00,46.0,20
+357,459 Midland Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.249106, 43.713576)}",30,Weekdays from 7 AM - 9 PM,387,Midland Ave NB ,40,2019-03-11T08:00:00,46.0,20
+358,691 Danforth Road,EB,,51,"{u'type': u'Point', u'coordinates': (-79.259044, 43.718226)}",30,Weekdays from 7 AM - 9 PM,400,Danforth Rd EB ,50,2019-03-11T08:00:00,56.0,20
+359,64 Newport Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.280947, 43.696054)}",30,Weekdays from 7 AM - 9 PM,415,Newport Ave WB ,40,2018-01-22T08:00:00,46.0,20
+360,48 Oakridge Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.240917, 43.728565)}",30,Weekdays from 7 AM - 9 PM,429,Oakridge Dr EB ,40,2019-03-11T07:00:00,46.0,20
+361,136 Byng Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.281633, 43.696487)}",30,Weekdays from 7 AM - 9 PM,450,Byng Ave SB ,40,2018-01-12T12:00:00,46.0,20
+362,30 Oakridge Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.241827, 43.727606)}",30,Weekdays from 7 AM - 9 PM,477,Oakridge Dr WB ,40,2019-03-11T07:00:00,46.0,20
+363,67 Denton Avenue,EB,2020-03-15T22:00:00,41,"{u'type': u'Point', u'coordinates': (-79.282619, 43.694233)}",30,Weekdays from 7 AM - 9 PM,512,Denton Ave EB ,40,2018-01-12T11:00:00,46.0,20
+364,24 Newport Avenue,EB,2020-03-16T14:00:00,41,"{u'type': u'Point', u'coordinates': (-79.283283, 43.695482)}",30,Weekdays from 7 AM - 9 PM,574,Newport Ave EB ,40,2018-01-12T10:00:00,46.0,20
+365,70 Pharmacy Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.284522, 43.694707)}",30,Weekdays from 7 AM - 9 PM,621,Pharmacy Ave SB ,50,2018-11-21T15:00:00,56.0,20
+366,72 Larwood Boulevard,WB,,51,"{u'type': u'Point', u'coordinates': (-79.238002, 43.715558)}",30,Weekdays from 7 AM - 9 PM,650,Berkdene Hills WB ,50,2019-04-03T09:00:00,56.0,20
+367,74 Chine Drive ,,2017-03-01T12:00:00,41,"{u'type': u'Point', u'coordinates': (-79.2434437724, 43.7101705167)}",30,Weekdays from 7 AM - 9 PM,698,Chine ,40,2016-01-01T11:00:00,46.0,20
+368,781 Victoria Park Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.290029, 43.695748)}",5,Weekdays from 7 AM - 9 PM,862,Victoria Park Ave NB ,40,2019-12-05T12:00:00,46.0,20
+369,30 East Haven Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.251184, 43.704853)}",5,Weekdays from 7 AM - 9 PM,2079,East Haven Dr NB ,40,2020-03-16T12:00:00,46.0,20
+370,34 East Haven Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.251007, 43.70518)}",5,Weekdays from 7 AM - 9 PM,2080,East Haven Dr SB ,40,2020-03-16T13:00:00,46.0,20
+371,18 Thatcher Avenue,SB,,31,"{u'type': u'Point', u'coordinates': (-79.239512, 43.715877)}",20,Weekdays from 7 AM - 9 PM,2089,Brimley Rd S SB ,30,2020-03-18T00:00:00,36.0,20
+372,294 Blantyre Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.283466, 43.686021)}",5,Weekdays from 7 AM - 9 PM,2092,Blantyre Ave SB ,40,2020-03-18T09:00:00,46.0,20
+373,287 Blantyre Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.282727, 43.684649)}",5,Weekdays from 7 AM - 9 PM,2094,Blantyre Ave NB ,40,2020-03-18T10:00:00,46.0,20
+374,20 Haileybury Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.258583, 43.745195)}",30,Weekdays from 7 AM - 9 PM,108,Haileybury Dr SB ,40,2018-11-21T15:00:00,46.0,21
+375,25 Seminole Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.250287, 43.745433)}",30,Weekdays from 7 AM - 9 PM,278,Seminole Ave EB ,40,2019-03-07T08:00:00,46.0,21
+376,45 Wainfleet Road,WB,,51,"{u'type': u'Point', u'coordinates': (-79.263302, 43.739535)}",30,Weekdays from 7 AM - 9 PM,420,Wainfleet Rd WB ,50,2019-04-16T09:00:00,56.0,21
+377,34 Deerfield Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.256511, 43.744613)}",30,Weekdays from 7 AM - 9 PM,483,Deerfield Rd WB ,40,2018-11-21T15:00:00,46.0,21
+378,22 Marcos Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.261488, 43.746521)}",30,Weekdays from 7 AM - 9 PM,498,Marcos Blvd EB ,40,2018-11-21T15:00:00,46.0,21
+379,47 Brimorton Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.255451, 43.765978)}",30,Weekdays from 7 AM - 9 PM,592,Brimorton Dr EB ,40,2019-03-20T07:00:00,46.0,21
+380,70 Brimorton Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.253607, 43.766046)}",30,Weekdays from 7 AM - 9 PM,651,Brimorton Dr WB ,40,2019-03-20T07:00:00,46.0,21
+381,46 Seminole Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.248059, 43.746458)}",30,Weekdays from 7 AM - 9 PM,688,Seminole Ave WB ,40,2019-03-20T07:00:00,46.0,21
+382,138 Canongate Trail,NB,,31,"{u'type': u'Point', u'coordinates': (-79.30706, 43.819027)}",20,Weekdays from 7 AM - 9 PM,3,Canongate Trl NB ,30,2018-10-18T08:00:00,36.0,22
+383,35 Sheldonbury Crescent,NB,,51,"{u'type': u'Point', u'coordinates': (-79.317993, 43.787959)}",30,Weekdays from 7 AM - 9 PM,10,Sheldonbury Cres NB ,50,2019-04-03T08:00:00,56.0,22
+384,193 Silver Springs Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.300949, 43.803387)}",30,Weekdays from 7 AM - 9 PM,32,Silver Spring Blvd SB ,40,2019-03-11T07:00:00,46.0,22
+385,281 Silver Springs Boulevard,NB,,41,"{u'type': u'Point', u'coordinates': (-79.303311, 43.806289)}",30,Weekdays from 7 AM - 9 PM,42,Silver Spring Blvd NB ,40,2019-03-11T07:00:00,46.0,22
+386,19 Lockie Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.282093, 43.788382)}",30,Weekdays from 7 AM - 9 PM,47,Lockie Ave EB ,40,2019-03-11T07:00:00,46.0,22
+387,43 Collingsbrook Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.319936, 43.788924)}",30,Weekdays from 7 AM - 9 PM,105,Collingsbrook BLVD WB ,40,2019-04-03T08:00:00,46.0,22
+388,121 Canongate Trail,SB,,31,"{u'type': u'Point', u'coordinates': (-79.307786, 43.820196)}",20,Weekdays from 7 AM - 9 PM,170,Canongate Trl SB ,30,2018-10-18T08:00:00,36.0,22
+389,9 Brantford Drive,SB,,61,"{u'type': u'Point', u'coordinates': (-79.323969, 43.790157)}",30,Weekdays from 7 AM - 9 PM,208,Corinthian Blvd SB ,60,2019-03-20T07:00:00,66.0,22
+390,6 Leafield Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.324421, 43.780687)}",30,Weekdays from 7 AM - 9 PM,276,Huntingwood Ave WB ,40,2018-11-21T15:00:00,46.0,22
+391,2 Rosscowan Gate,NB,,51,"{u'type': u'Point', u'coordinates': (-79.321771, 43.785658)}",30,Weekdays from 7 AM - 9 PM,314,Corinthian Blvd NB ,50,2019-03-07T08:00:00,56.0,22
+392,82 Fundy Bay Boulevard,WB,,31,"{u'type': u'Point', u'coordinates': (-79.315901, 43.809105)}",20,Weekdays from 7 AM - 9 PM,318,Fundy Bay Blvd WB ,30,2019-03-20T06:00:00,36.0,22
+393,50 Collingsbrook Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.3181, 43.788587)}",30,Weekdays from 7 AM - 9 PM,414,Collingsbrook Blvd EB ,40,2019-04-03T08:00:00,46.0,22
+394,2751 Victoria Park Avenue,NB,,51,"{u'type': u'Point', u'coordinates': (-79.324874, 43.77947)}",30,Weekdays from 7 AM - 9 PM,476,Victorial Park Ave NB ,50,2018-11-21T15:00:00,56.0,22
+395,143 Fundy Bay Boulevard,EB,,31,"{u'type': u'Point', u'coordinates': (-79.318288, 43.808725)}",20,Weekdays from 7 AM - 9 PM,622,Fundy Bay Blvd EB ,30,2019-01-04T12:00:00,36.0,22
+396,67 Kilkenny Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.319153, 43.788041)}",30,Weekdays from 7 AM - 9 PM,631,Kilkenny Dr NB ,40,2019-04-03T08:00:00,46.0,22
+397,2644 Midland Avenue,NB,,51,"{u'type': u'Point', u'coordinates': (-79.280479, 43.789737)}",30,Weekdays from 7 AM - 9 PM,637,Midland Ave NB ,50,2019-03-11T07:00:00,56.0,22
+398,125 Huntsmill Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.326242, 43.806942)}",5,Weekdays from 7 AM - 9 PM,746,Huntsmill Blvd WB ,40,2019-09-24T09:00:00,46.0,22
+399,54 Dempster Street,WB,,41,"{u'type': u'Point', u'coordinates': (-79.291108, 43.78027)}",5,Weekdays from 7 AM - 9 PM,755,Dempster St WB ,40,2019-10-01T12:00:00,46.0,22
+400,123 Allanford Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.293367, 43.777981)}",5,Weekdays from 7 AM - 9 PM,762,Allanford Rd NB ,40,2019-11-15T13:00:00,46.0,22
+401,2419 Birchmount Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.299965, 43.785242)}",30,Weekdays from 7 AM - 9 PM,763,Birchmount Rd NB ,50,2019-10-30T10:00:00,56.0,22
+402,170 Huntsmill Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.330168, 43.806619)}",5,Weekdays from 7 AM - 9 PM,769,Huntsmill Blvd EB ,40,2019-09-24T09:00:00,46.0,22
+403,48 Dunmurray Boulevard,SB,,41,"{u'type': u'Point', u'coordinates': (-79.304015, 43.786782)}",5,Weekdays from 7 AM - 9 PM,821,Dunmurray Blvd SB ,40,2019-10-30T12:00:00,46.0,22
+404,2514 Birchmount Road,SB,,51,"{u'type': u'Point', u'coordinates': (-79.30099, 43.787091)}",30,Weekdays from 7 AM - 9 PM,830,Birchmount Rd SB ,50,2019-10-30T11:00:00,56.0,22
+405,2 Rosscowan Gate,NB,,51,"{u'type': u'Point', u'coordinates': (-79.321771, 43.785658)}",30,Weekdays from 7 AM - 9 PM,1960,Pharmacy Ave NB ,50,2020-03-10T00:00:00,56.0,22
+406,9 Brantford Drive,SB,,61,"{u'type': u'Point', u'coordinates': (-79.323969, 43.790157)}",30,Weekdays from 7 AM - 9 PM,2086,Pharmacy Ave SB ,60,2020-03-18T00:00:00,66.0,22
+407,51 Snowball Crescent,NB,,51,"{u'type': u'Point', u'coordinates': (-79.228039, 43.799246)}",30,Weekdays from 7 AM - 9 PM,97,Washburn Way NB ,50,2019-03-11T08:00:00,56.0,23
+408,196 Burrows Hall Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.22841, 43.79408)}",30,Weekdays from 7 AM - 9 PM,385,Burrows Hall Blvd WB ,40,2018-10-18T14:00:00,46.0,23
+409,1 Tapscott Road,EB,2020-02-04T12:00:00,51,"{u'type': u'Point', u'coordinates': (-79.225218, 43.804478)}",30,Weekdays from 7 AM - 9 PM,418,Tapscott Rd EB ,50,2018-10-25T09:00:00,56.0,23
+410,51 Tapscott Road,WB,,51,"{u'type': u'Point', u'coordinates': (-79.223043, 43.804846)}",30,Weekdays from 7 AM - 9 PM,430,Tapscott Rd WB ,50,2019-01-03T10:00:00,56.0,23
+411,2621 Midland Avenue,SB,,51,"{u'type': u'Point', u'coordinates': (-79.279399, 43.787724)}",30,Weekdays from 7 AM - 9 PM,497,Midland Ave SB ,50,2019-03-11T07:00:00,56.0,23
+412,151 Burrows Hall Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.229697, 43.792333)}",30,Weekdays from 7 AM - 9 PM,519,Burrows Hall Blvd EB ,40,2019-03-20T10:00:00,46.0,23
+413,18 Washburn Way,SB,,51,"{u'type': u'Point', u'coordinates': (-79.227773, 43.797108)}",30,Weekdays from 7 AM - 9 PM,692,Washburn Way SB ,50,2019-03-11T08:00:00,56.0,23
+414,2 Berner Trail,NB,,51,"{u'type': u'Point', u'coordinates': (-79.225726, 43.80129)}",30,Weekdays from 7 AM - 9 PM,712,Washburn Way NB ,50,2018-10-25T09:00:00,56.0,23
+415,120 Chartland Boulevard South,EB,,51,"{u'type': u'Point', u'coordinates': (-79.2768, 43.801025)}",30,Weekdays from 7 AM - 9 PM,735,Chartland Blvd S EB ,50,2019-10-25T13:00:00,56.0,23
+416,84 Chartland Boulevard South,NB,,41,"{u'type': u'Point', u'coordinates': (-79.280129, 43.800146)}",5,Weekdays from 7 AM - 9 PM,759,Chartland Blvd S NB ,40,2019-10-25T13:00:00,46.0,23
+417,1166 Huntingwood Drive,EB,,51,"{u'type': u'Point', u'coordinates': (-79.279683, 43.797779)}",30,Weekdays from 7 AM - 9 PM,772,Huntingwood Dr EB ,50,2019-10-25T13:00:00,56.0,23
+418,1226 Huntingwood Drive,WB,,51,"{u'type': u'Point', u'coordinates': (-79.2747, 43.798261)}",30,Weekdays from 7 AM - 9 PM,811,Huntingwood Blvd WB ,50,2019-10-25T12:00:00,56.0,23
+419,120 Berner Trail,SB,,41,"{u'type': u'Point', u'coordinates': (-79.220494, 43.801502)}",5,Weekdays from 7 AM - 9 PM,2106,Berner Trail SB ,40,2020-03-23T09:00:00,46.0,23
+420,97 Berner Trail,NB,,41,"{u'type': u'Point', u'coordinates': (-79.2203, 43.800609)}",5,Weekdays from 7 AM - 9 PM,2107,Berner Trail NB ,40,2020-03-23T09:00:00,46.0,23
+421,143 Port Royal Trail,WB,,41,"{u'type': u'Point', u'coordinates': (-79.289201, 43.815876)}",5,Weekdays from 7 AM - 9 PM,2113,Port Royal Trl WB ,40,2020-03-24T11:00:00,46.0,23
+422,26 Port Royal Trail,SB,,41,"{u'type': u'Point', u'coordinates': (-79.286901, 43.820809)}",5,Weekdays from 7 AM - 9 PM,2116,Port Royal Trl SB ,40,2020-03-24T09:00:00,46.0,23
+423,156 Orton Park Road,SB,,51,"{u'type': u'Point', u'coordinates': (-79.20913, 43.772057)}",30,Weekdays from 7 AM - 9 PM,95,Orton Park Rd SB ,50,2019-04-15T06:00:00,56.0,24
+424,103 Orton Park Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.207913, 43.769787)}",30,Weekdays from 7 AM - 9 PM,126,Orton Park Rd NB ,50,2019-04-15T06:00:00,56.0,24
+425,762 Scarborough Golf Club Road,SB,,51,"{u'type': u'Point', u'coordinates': (-79.216878, 43.765052)}",30,Weekdays from 7 AM - 9 PM,148,Scarborough Golf Club Rd SB ,50,2018-10-18T14:00:00,56.0,24
+426,40 Windover Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.209612, 43.761801)}",30,Weekdays from 7 AM - 9 PM,206,Windover Dr WB ,40,2018-02-05T15:00:00,46.0,24
+427,21 Janray Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.220033, 43.76258)}",30,Weekdays from 7 AM - 9 PM,330,Janray Dr EB ,40,2018-10-25T10:00:00,46.0,24
+428,733 Scarborough Golf Club Road,NB,,51,"{u'type': u'Point', u'coordinates': (-79.21581, 43.762922)}",30,Weekdays from 7 AM - 9 PM,348,Scarborough Golf Club Rd NB ,50,2018-10-18T14:00:00,56.0,24
+429,10 Waldock Street,WB,,41,"{u'type': u'Point', u'coordinates': (-79.191856, 43.758532)}",30,Weekdays from 7 AM - 9 PM,412,Church Ave WB ,40,2018-10-24T07:00:00,46.0,24
+430,768 Brimorton Drive,NB,,41,"{u'type': u'Point', u'coordinates': (-79.222123, 43.772998)}",30,Weekdays from 7 AM - 9 PM,456,Brimorton Dr NB ,40,2019-03-20T05:00:00,46.0,24
+431,980 Bellamy Road North,SB,,51,"{u'type': u'Point', u'coordinates': (-79.239978, 43.769256)}",30,Weekdays from 7 AM - 9 PM,470,Bellamy Rd SB ,50,2019-03-06T14:00:00,56.0,24
+432,401 Brimorton Drive,NB,,51,"{u'type': u'Point', u'coordinates': (-79.238854, 43.767072)}",30,Weekdays from 7 AM - 9 PM,491,Bellamy Rd NB ,50,2019-03-06T14:00:00,56.0,24
+433,61 Holmfirth Terrace,WB,,41,"{u'type': u'Point', u'coordinates': (-79.217236, 43.760199)}",30,Weekdays from 7 AM - 9 PM,495,Holmfirth Ter WB ,40,2018-01-23T11:00:00,46.0,24
+434, Holmfirth Terrace,EB,,41,"{u'type': u'Point', u'coordinates': (-79.220006, 43.759579)}",30,Weekdays from 7 AM - 9 PM,568,Holmfirth Ter EB ,40,2017-07-11T10:00:00,46.0,24
+435,98 Dolly Varden Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.233008, 43.772582)}",30,Weekdays from 7 AM - 9 PM,704,Brimorton Dr WB ,40,2019-03-07T08:00:00,46.0,24
+436,76 Slan Avenue,EB,,41,"{u'type': u'Point', u'coordinates': (-79.215007, 43.774714)}",5,Weekdays from 7 AM - 9 PM,881,Slane Ave EB ,40,2019-12-16T12:00:00,46.0,24
+437,110 Slan Avenue,WB,,41,"{u'type': u'Point', u'coordinates': (-79.21264, 43.775947)}",5,Weekdays from 7 AM - 9 PM,883,Slane Ave WB ,40,2019-12-16T13:00:00,46.0,24
+438,76 Shoredale Drive,SB,,41,"{u'type': u'Point', u'coordinates': (-79.211793, 43.761443)}",30,Weekdays from 7 AM - 9 PM,998,Shoredale Dr SB ,40,2018-01-23T10:00:00,46.0,24
+439,95 Sudbury Hall Drive,EB,,41,"{u'type': u'Point', u'coordinates': (-79.173426, 43.801802)}",30,Weekdays from 7 AM - 9 PM,80,Dean Park Rd EB ,40,2019-01-03T14:00:00,46.0,25
+440,134 Hupfield Trail,SB,,41,"{u'type': u'Point', u'coordinates': (-79.219263, 43.814463)}",5,Weekdays from 7 AM - 9 PM,487,Hupfield Trl SB ,40,2019-07-24T08:00:00,46.0,25
+441,573 Morrish Road,NB,,41,"{u'type': u'Point', u'coordinates': (-79.174407, 43.792953)}",30,Weekdays from 7 AM - 9 PM,496,Morrish Rd NB ,40,2019-01-03T14:00:00,46.0,25
+442,45 Canmore Boulevard,EB,,41,"{u'type': u'Point', u'coordinates': (-79.181071, 43.7933)}",5,Weekdays from 7 AM - 9 PM,544,Canmore Blvd EB ,40,2017-05-26T12:00:00,46.0,25
+443,53 Dean Park Road,WB,,41,"{u'type': u'Point', u'coordinates': (-79.171212, 43.803227)}",30,Weekdays from 7 AM - 9 PM,623,Dean Park Rd WB ,40,2019-01-03T14:00:00,46.0,25
+444,694 Morrish Road,SB,,41,"{u'type': u'Point', u'coordinates': (-79.175365, 43.79471)}",30,Weekdays from 7 AM - 9 PM,729,Morrish Rd SB ,40,2019-01-03T14:00:00,46.0,25
+445,60 John Tabor Trail,WB,,41,"{u'type': u'Point', u'coordinates': (-79.208871, 43.806609)}",5,Weekdays from 7 AM - 9 PM,780,John Tabor Trl WB ,40,2019-11-04T13:00:00,46.0,25
+446,3 John Tabor Trail,WB,,41,"{u'type': u'Point', u'coordinates': (-79.2106, 43.805279)}",5,Weekdays from 7 AM - 9 PM,791,Brenyon Way WB ,40,2019-10-30T14:00:00,46.0,25
+447,127 Wickson Trail,NB,,41,"{u'type': u'Point', u'coordinates': (-79.211247, 43.802922)}",5,Weekdays from 7 AM - 9 PM,812,Wickson Trail NB ,40,2019-11-15T11:00:00,46.0,25
+448,88 Canmore Boulevard,WB,,41,"{u'type': u'Point', u'coordinates': (-79.177901, 43.793952)}",5,Weekdays from 7 AM - 9 PM,836,Canmore Blvd WB ,40,2017-05-26T12:00:00,46.0,25
+449,250 Brenyon Way,EB,,31,"{u'type': u'Point', u'coordinates': (-79.213186, 43.806065)}",20,Weekdays from 7 AM - 9 PM,844,Brenyon Way EB ,30,2019-10-30T14:00:00,36.0,25
+450, Morningside Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.191856, 43.782093)}",30,Weekdays from 7 AM - 9 PM,1961,Morningside Ave NB ,40,2020-03-10T00:00:00,46.0,25
+451,156 Varsity Road,EB,,31,"{u'type': u'Point', u'coordinates': (-79.50101, 43.662984)}",20,Weekdays from 7 AM - 9 PM,2120,Varsity Rd EB ,30,2020-03-27T14:00:00,36.0,4
+452,302 Grandravine Drive,WB,,41,"{u'type': u'Point', u'coordinates': (-79.511315, 43.74868)}",5,Weekdays from 7 AM - 9 PM,2118,Grandravine Ave WB ,40,2020-03-27T00:00:00,46.0,7
+453,90 Alexander Street,EB,,31,"{u'type': u'Point', u'coordinates': (-79.379519, 43.663912)}",20,Weekdays from 7 AM - 9 PM,2124,Alexander St EB ,30,2020-03-30T11:00:00,36.0,13
+454,129 Carlaw Avenue,NB,,41,"{u'type': u'Point', u'coordinates': (-79.339288, 43.659326)}",5,Weekdays from 7 AM - 9 PM,2132,Carlaw Ave NB ,40,2020-03-31T13:00:00,46.0,14
+455,473 Jones Avenue,SB,,41,"{u'type': u'Point', u'coordinates': (-79.338539, 43.676234)}",5,Weekdays from 7 AM - 9 PM,2133,Byng Ave SB ,40,2020-04-02T14:00:00,46.0,14
